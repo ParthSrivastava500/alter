@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot-Killer Model
+* source:	https://sketchfab.com/3d-models/robot-killer-model-f3947935b27c4bb29da0734b31d2d37a
+* author:	Moonlightlll (https://sketchfab.com/Moonlightlll)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot-Killer Model" (https://sketchfab.com/3d-models/robot-killer-model-f3947935b27c4bb29da0734b31d2d37a) by Moonlightlll (https://sketchfab.com/Moonlightlll) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
